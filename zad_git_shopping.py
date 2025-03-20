@@ -12,7 +12,3 @@ for sklep, produkty in shopping.items():
         licznik +=1
 
 print(f"\nW sumie kupuję {licznik} produktów.")
-#komentarz
-print("Zmiana poprzez dodanie komentarza aby wrzucić commita.")
-#kolejna zmiana 
-print("Kolejna zmiana.")
