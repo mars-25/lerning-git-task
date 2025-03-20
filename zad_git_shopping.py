@@ -12,3 +12,5 @@ for sklep, produkty in shopping.items():
         licznik +=1
 
 print(f"\nW sumie kupuję {licznik} produktów.")
+
+print("Specjalne pozdrowienia.")
